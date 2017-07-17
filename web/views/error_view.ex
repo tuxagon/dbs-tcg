@@ -1,5 +1,5 @@
-defmodule DbsTcg.ErrorView do
-  use DbsTcg.Web, :view
+defmodule Dbs.ErrorView do
+  use Dbs.Web, :view
 
   def render("404.html", _assigns) do
     "Page not found"

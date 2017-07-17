@@ -1,5 +1,5 @@
-defmodule DbsTcg.PageControllerTest do
-  use DbsTcg.ConnCase
+defmodule Dbs.PageControllerTest do
+  use Dbs.ConnCase
 
   test "GET /", %{conn: conn} do
     conn = get conn, "/"

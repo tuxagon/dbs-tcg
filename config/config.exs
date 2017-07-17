@@ -7,14 +7,14 @@ use Mix.Config
 
 # General application configuration
 config :dbs_tcg,
-  ecto_repos: [DbsTcg.Repo]
+  ecto_repos: [Dbs.Repo]
 
 # Configures the endpoint
-config :dbs_tcg, DbsTcg.Endpoint,
+config :dbs_tcg, Dbs.Endpoint,
   url: [host: "localhost"],
   secret_key_base: "hImk4HmnIk1AVpzBGDXNP6ToBt9dUkURZn9JCO/jj27JdwMU86jJmCPSM0ZSlzWO",
-  render_errors: [view: DbsTcg.ErrorView, accepts: ~w(html json)],
-  pubsub: [name: DbsTcg.PubSub,
+  render_errors: [view: Dbs.ErrorView, accepts: ~w(html json)],
+  pubsub: [name: Dbs.PubSub,
            adapter: Phoenix.PubSub.PG2]
 
 # Configures Elixir's Logger

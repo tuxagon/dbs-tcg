@@ -1,12 +1,12 @@
-defmodule DbsTcg.Web do
+defmodule Dbs.Web do
   @moduledoc """
   A module that keeps using definitions for controllers,
   views and so on.
 
   This can be used in your application as:
 
-      use DbsTcg.Web, :controller
-      use DbsTcg.Web, :view
+      use Dbs.Web, :controller
+      use Dbs.Web, :view
 
   The definitions below will be executed for every view,
   controller, etc, so keep them short and clean, focused
@@ -30,12 +30,12 @@ defmodule DbsTcg.Web do
     quote do
       use Phoenix.Controller
 
-      alias DbsTcg.Repo
+      alias Dbs.Repo
       import Ecto
       import Ecto.Query
 
-      import DbsTcg.Router.Helpers
-      import DbsTcg.Gettext
+      import Dbs.Router.Helpers
+      import Dbs.Gettext
     end
   end
 
@@ -49,9 +49,9 @@ defmodule DbsTcg.Web do
       # Use all HTML functionality (forms, tags, etc)
       use Phoenix.HTML
 
-      import DbsTcg.Router.Helpers
-      import DbsTcg.ErrorHelpers
-      import DbsTcg.Gettext
+      import Dbs.Router.Helpers
+      import Dbs.ErrorHelpers
+      import Dbs.Gettext
     end
   end
 
@@ -65,10 +65,10 @@ defmodule DbsTcg.Web do
     quote do
       use Phoenix.Channel
 
-      alias DbsTcg.Repo
+      alias Dbs.Repo
       import Ecto
       import Ecto.Query
-      import DbsTcg.Gettext
+      import Dbs.Gettext
     end
   end
 

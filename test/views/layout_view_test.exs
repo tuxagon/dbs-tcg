@@ -1,3 +1,3 @@
-defmodule DbsTcg.LayoutViewTest do
-  use DbsTcg.ConnCase, async: true
+defmodule Dbs.LayoutViewTest do
+  use Dbs.ConnCase, async: true
 end

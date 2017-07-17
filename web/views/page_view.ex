@@ -1,3 +1,3 @@
-defmodule DbsTcg.PageView do
-  use DbsTcg.Web, :view
+defmodule Dbs.PageView do
+  use Dbs.Web, :view
 end

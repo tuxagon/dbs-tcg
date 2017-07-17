@@ -1,4 +1,4 @@
-defmodule DbsTcg.ConnCase do
+defmodule Dbs.ConnCase do
   @moduledoc """
   This module defines the test case to be used by
   tests that require setting up a connection.
@@ -20,23 +20,23 @@ defmodule DbsTcg.ConnCase do
       # Import conveniences for testing with connections
       use Phoenix.ConnTest
 
-      alias DbsTcg.Repo
+      alias Dbs.Repo
       import Ecto
       import Ecto.Changeset
       import Ecto.Query
 
-      import DbsTcg.Router.Helpers
+      import Dbs.Router.Helpers
 
       # The default endpoint for testing
-      @endpoint DbsTcg.Endpoint
+      @endpoint Dbs.Endpoint
     end
   end
 
   setup tags do
-    :ok = Ecto.Adapters.SQL.Sandbox.checkout(DbsTcg.Repo)
+    :ok = Ecto.Adapters.SQL.Sandbox.checkout(Dbs.Repo)
 
     unless tags[:async] do
-      Ecto.Adapters.SQL.Sandbox.mode(DbsTcg.Repo, {:shared, self()})
+      Ecto.Adapters.SQL.Sandbox.mode(Dbs.Repo, {:shared, self()})
     end
 
     {:ok, conn: Phoenix.ConnTest.build_conn()}

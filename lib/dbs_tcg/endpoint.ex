@@ -1,7 +1,7 @@
-defmodule DbsTcg.Endpoint do
+defmodule Dbs.Endpoint do
   use Phoenix.Endpoint, otp_app: :dbs_tcg
 
-  socket "/socket", DbsTcg.UserSocket
+  socket "/socket", Dbs.UserSocket
 
   # Serve at "/" the static files from "priv/static" directory.
   #
@@ -38,5 +38,5 @@ defmodule DbsTcg.Endpoint do
     key: "_dbs_tcg_key",
     signing_salt: "rd9TgyJ1"
 
-  plug DbsTcg.Router
+  plug Dbs.Router
 end

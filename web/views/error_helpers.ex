@@ -1,4 +1,4 @@
-defmodule DbsTcg.ErrorHelpers do
+defmodule Dbs.ErrorHelpers do
   @moduledoc """
   Conveniences for translating and building error messages.
   """
@@ -32,9 +32,9 @@ defmodule DbsTcg.ErrorHelpers do
     #     dgettext "errors", "is invalid"
     #
     if count = opts[:count] do
-      Gettext.dngettext(DbsTcg.Gettext, "errors", msg, msg, count, opts)
+      Gettext.dngettext(Dbs.Gettext, "errors", msg, msg, count, opts)
     else
-      Gettext.dgettext(DbsTcg.Gettext, "errors", msg, opts)
+      Gettext.dgettext(Dbs.Gettext, "errors", msg, opts)
     end
   end
 end

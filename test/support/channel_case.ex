@@ -1,4 +1,4 @@
-defmodule DbsTcg.ChannelCase do
+defmodule Dbs.ChannelCase do
   @moduledoc """
   This module defines the test case to be used by
   channel tests.
@@ -20,22 +20,22 @@ defmodule DbsTcg.ChannelCase do
       # Import conveniences for testing with channels
       use Phoenix.ChannelTest
 
-      alias DbsTcg.Repo
+      alias Dbs.Repo
       import Ecto
       import Ecto.Changeset
       import Ecto.Query
 
 
       # The default endpoint for testing
-      @endpoint DbsTcg.Endpoint
+      @endpoint Dbs.Endpoint
     end
   end
 
   setup tags do
-    :ok = Ecto.Adapters.SQL.Sandbox.checkout(DbsTcg.Repo)
+    :ok = Ecto.Adapters.SQL.Sandbox.checkout(Dbs.Repo)
 
     unless tags[:async] do
-      Ecto.Adapters.SQL.Sandbox.mode(DbsTcg.Repo, {:shared, self()})
+      Ecto.Adapters.SQL.Sandbox.mode(Dbs.Repo, {:shared, self()})
     end
 
     :ok

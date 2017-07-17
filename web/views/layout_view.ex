@@ -1,3 +1,3 @@
-defmodule DbsTcg.LayoutView do
-  use DbsTcg.Web, :view
+defmodule Dbs.LayoutView do
+  use Dbs.Web, :view
 end

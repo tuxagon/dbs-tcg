@@ -1,3 +1,3 @@
-defmodule DbsTcg.PageViewTest do
-  use DbsTcg.ConnCase, async: true
+defmodule Dbs.PageViewTest do
+  use Dbs.ConnCase, async: true
 end

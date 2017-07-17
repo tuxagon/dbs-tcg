@@ -1,5 +1,5 @@
-defmodule DbsTcg.Router do
-  use DbsTcg.Web, :router
+defmodule Dbs.Router do
+  use Dbs.Web, :router
 
   pipeline :browser do
     plug :accepts, ["html"]
@@ -13,14 +13,14 @@ defmodule DbsTcg.Router do
     plug :accepts, ["json"]
   end
 
-  scope "/", DbsTcg do
+  scope "/", Dbs do
     pipe_through :browser # Use the default browser stack
 
     get "/", PageController, :index
   end
 
   # Other scopes may use custom stacks.
-  # scope "/api", DbsTcg do
+  # scope "/api", Dbs do
   #   pipe_through :api
   # end
 end
