@@ -1,0 +1,16 @@
+[
+    { "name": "Son Goku", "type": "leader", "skills": [{ "keywords": ["auto", "once-per-turn" ], "text": "[AUTO][ONCE-PER-TURN] When your Battle Card attacks a Leader Card, if the attacking card has 15000 or more power, draw 1 card." } ]},
+    { "name": "Son Gohan, Family of Justice", "type": "battle" },
+    { "name": "Son Goten, Family of Justice", "type": "battle" },
+    { "name": "Furious Yell Vegeta", "type": "battle" },
+    { "name": "Implacable Trunks", "type": "battle" },
+    { "name": "Slasher Trunks", "type": "battle" },
+    { "name": "Trunks, Protector of Children", "type": "battle" },
+    { "name": "Energy Power Gotenks", "type": "battle" },
+    { "name": "Human Shield Krillin", "type": "battle" },
+    { "name": "Family Kamehameha", "type": "extra" },
+    { "name": "Mighty Striker Son Gohan", "type": "battle" },
+    { "name": "Son Goten", "type": "battle" },
+    { "name": "Vegeta", "type": "battle" },
+    { "name": "Trunks", "type": "other" }
+]

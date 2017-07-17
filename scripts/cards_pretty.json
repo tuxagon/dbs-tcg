@@ -1,0 +1,4157 @@
+[
+  {
+    "front": true,
+    "power": 10000,
+    "character": "Champa",
+    "special_trait": "God",
+    "era": "Champa Saga",
+    "type": "leader",
+    "number": "BT1-001",
+    "name": "Champa",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-001.png",
+    "rarity": "R",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "auto",
+          "once-per-turn"
+        ],
+        "text": "[AUTO][ONCE-PER-TURN] When your Battle Card attacks a Leader Card, if the attacking card has 15000 or more power, draw 1 card."
+      },
+      {
+        "keywords": [
+          "awaken"
+        ],
+        "text": "[AWAKEN] When your life is at 4 or less You may draw 2 cards and flip this card over."
+      }
+    ]
+  },
+  {
+    "front": false,
+    "power": 15000,
+    "character": "Champa",
+    "special_trait": "God",
+    "era": "Champa Saga",
+    "type": "leader",
+    "number": "BT1-001",
+    "name": "God of Destruction Champa",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-001_b.png",
+    "rarity": "R",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks, draw 1 card."
+      },
+      {
+        "keywords": [
+          "activate-main",
+          "double-strike"
+        ],
+        "text": "[ACTIVATE-MAIN] Place 1 card from your hand in the Drop Area Choose this card or 1 of your Battle Cards. It gains [DOUBLE-STRIKE] for the duration of the turn."
+      }
+    ]
+  },
+  {
+    "front": true,
+    "power": 10000,
+    "character": "Vados",
+    "special_trait": "God",
+    "era": "Champa Saga",
+    "type": "leader",
+    "number": "BT1-002",
+    "name": "Vados",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-002.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "permanent"
+        ],
+        "text": "[PERMANENT] This card can attack Battle Cards in Active Mode."
+      },
+      {
+        "keywords": [
+          "awaken"
+        ],
+        "text": "[AWAKEN] When your life is at 4 or less You may draw 2 cards and flip this card over."
+      }
+    ]
+  },
+  {
+    "front": false,
+    "power": 15000,
+    "character": "Vados",
+    "special_trait": "God",
+    "era": "Champa Saga",
+    "type": "leader",
+    "number": "BT1-002",
+    "name": "Aide Vados",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-002_b.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "permanent"
+        ],
+        "text": "[PERMANENT] This card can attack Battle Cards in Active Mode."
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks, draw 1 card. If this card attacks a Battle Card, it gains +5000 power for the duration of the turn."
+      }
+    ]
+  },
+  {
+    "front": true,
+    "power": 10000,
+    "character": "Hit",
+    "special_trait": "Alien",
+    "era": "Champa Saga",
+    "type": "leader",
+    "number": "BT1-003",
+    "name": "Hit",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-003.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks, it gains +5000 power for the duration of the turn."
+      },
+      {
+        "keywords": [
+          "awaken"
+        ],
+        "text": "[AWAKEN] When your life is at 4 or less You may draw 2 cards and flip this card over."
+      }
+    ]
+  },
+  {
+    "front": false,
+    "power": 15000,
+    "character": "Hit",
+    "special_trait": "Alien",
+    "era": "Champa Saga",
+    "type": "leader",
+    "number": "BT1-003",
+    "name": "Assassin Hit",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-003_b.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks, draw 1 card, and this card gains +5000 power for the duration of this turn."
+      },
+      {
+        "keywords": [
+          "auto",
+          "once-per-turn",
+          "blocker",
+          "blocker"
+        ],
+        "text": "[AUTO][ONCE-PER-TURN] When your opponent activates [BLOCKER] , you may place 1 red card from your hand into the Drop Area. If you do so, negate that [BLOCKER] ."
+      }
+    ]
+  },
+  {
+    "power": 25000,
+    "character": "Champa",
+    "special_trait": "God",
+    "era": "Champa Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 6,
+      "colors": [
+        "red",
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-004",
+    "name": "Destructive Terror Champa",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-004.png",
+    "rarity": "SR",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "evolve"
+        ],
+        "energy_cost": [
+          "red",
+          "red",
+          "red",
+          "2"
+        ],
+        "text": "[EVOLVE] <Champa>"
+      },
+      {
+        "keywords": [
+          "triple-strike"
+        ],
+        "text": "[TRIPLE-STRIKE] (This card inflicts 3 damage instead of 1 when attacking)"
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, choose all of your opponent's Battle Cards in the Battle Area with 15000 or less power and KO them."
+      }
+    ]
+  },
+  {
+    "power": 16000,
+    "character": "Champa",
+    "special_trait": "God",
+    "era": "Champa Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 3,
+      "colors": [
+        "red",
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-005",
+    "name": "Furthering Destruction Champa",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-005.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "auto",
+          "double-strike"
+        ],
+        "text": "[AUTO] When you Combo with this card, choose 1 of your attacking cards. It gains [DOUBLE-STRIKE] (This card inflicts 2 damage instead of 1 when attacking) for the duration of the battle."
+      }
+    ]
+  },
+  {
+    "power": 10000,
+    "character": "Champa",
+    "special_trait": "God",
+    "era": "Champa Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-006",
+    "name": "Scheming Champa",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-006.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play a red <<Alien>>, it gains +5000 power for the duration of the turn."
+      }
+    ]
+  },
+  {
+    "power": 5000,
+    "character": "Champa",
+    "special_trait": "God",
+    "era": "Champa Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-007",
+    "name": "Manipulating God Champa",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-007.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, look at up to 7 cards from the top of your deck. Choose up to 1 red <Champa> among them and add it to your hand. Then, shuffle your deck."
+      }
+    ]
+  },
+  {
+    "power": 20000,
+    "character": "Vados",
+    "special_trait": "God",
+    "era": "Champa Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 5,
+      "colors": [
+        "red",
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-008",
+    "name": "Bewitching God Vados",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-008.png",
+    "rarity": "R",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "dual-attack"
+        ],
+        "text": "[DUAL-ATTACK]"
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks, look at up to 3 cards from the top of your deck. Choose up to 1 <<Alien>> with power 15000 or less among them and play it. Then, shuffle your deck."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Vados",
+    "special_trait": "God",
+    "era": "Champa Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 3,
+      "colors": [
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-009",
+    "name": "Calm-Hearted Vados",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-009.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, look at up to 3 cards from the top of your deck. Choose up to 1 red <<Alien>> among them and add it to your hand. Then, shuffle your deck."
+      }
+    ]
+  },
+  {
+    "power": 12000,
+    "character": "Vados",
+    "special_trait": "God",
+    "era": "Champa Saga",
+    "combo_energy": 0,
+    "combo_power": 0,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-010",
+    "name": "Divine Aide Vados",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-010.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you Combo with this card, if your Leader Card is red and your life is 4 or lower, draw 1 card and add +10000 to this card's Combo for the duration of the turn."
+      }
+    ]
+  },
+  {
+    "power": 25000,
+    "character": "Hit",
+    "special_trait": "Alien",
+    "era": "Champa Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 6,
+      "colors": [
+        "red",
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-011",
+    "name": "Lightning-fast Hit",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-011.png",
+    "rarity": "SR",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "evolve"
+        ],
+        "energy_cost": [
+          "red",
+          "red",
+          "red",
+          "2"
+        ],
+        "text": "[EVOLVE] <Hit>"
+      },
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE]"
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When a card evolves into this card, inflict 2 damage to your opponent."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Hit",
+    "special_trait": "Alien",
+    "era": "Champa Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-012",
+    "name": "Hit",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-012.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          
+        ],
+        "text": "-"
+      }
+    ]
+  },
+  {
+    "power": 20000,
+    "character": "Cabba",
+    "special_trait": "Alien\/Saiyan",
+    "era": "Champa Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 4,
+      "colors": [
+        "red",
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-013",
+    "name": "Raging Cabba",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-013.png",
+    "rarity": "R",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "evolve"
+        ],
+        "energy_cost": [
+          "red",
+          "red",
+          "1"
+        ],
+        "text": "[EVOLVE] <Cabba>"
+      },
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE]"
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When a card evolves into this card, switch this card to Active Mode."
+      }
+    ]
+  },
+  {
+    "power": 5000,
+    "character": "Cabba",
+    "special_trait": "Alien\/Saiyan",
+    "era": "Champa Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-014",
+    "name": "Saiyan Cabba",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-014.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "auto",
+          "double-strike"
+        ],
+        "text": "[AUTO] When this card attacks, you may choose 1 card from your life and add it to your hand. If you do so, this card gains +10000 power and [DOUBLE-STRIKE] (This card inflicts 2 damage instead of 1 when attacking) for the duration of the turn."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Frost",
+    "special_trait": "Alien\/Frieza Clan",
+    "era": "Champa Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 4,
+      "colors": [
+        "red",
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-015",
+    "name": "Terror Assault Frost",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-015.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "evolve"
+        ],
+        "energy_cost": [
+          "red",
+          "red",
+          "1"
+        ],
+        "text": "[EVOLVE] <Frost> (Play this card on top of the specified card)"
+      },
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE] (This card inflicts 2 damage instead of 1 when attacking)"
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks a Battle Card, KO that card after the battle. Then, if your opponent's Leader Card has 10000 or less power, inflict 1 damage to your opponent."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Frost",
+    "special_trait": "Alien\/Frieza Clan",
+    "era": "Champa Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 3,
+      "colors": [
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-016",
+    "name": "Unceasing Evolution Frost",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-016.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "evolve",
+          "double-strike"
+        ],
+        "energy_cost": [
+          "red",
+          "red"
+        ],
+        "text": "[EVOLVE] <Frost> (Play this card on top of the specified card) [DOUBLE-STRIKE] (This card inflicts 2 damage instead of 1 when attacking)"
+      }
+    ]
+  },
+  {
+    "power": 5000,
+    "character": "Frost",
+    "special_trait": "Alien\/Frieza Clan",
+    "era": "Champa Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-017",
+    "name": "Evolution Premonition Frost",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-017.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "activate-main",
+          "evolve"
+        ],
+        "energy_cost": [
+          "2"
+        ],
+        "text": "[ACTIVATE-MAIN] Look at up to 7 cards from the top of your deck, choose one <Frost> with [EVOLVE] among them and Evolve this card into it. Then, shuffle your deck."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Botamo",
+    "special_trait": "Alien",
+    "era": "Champa Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 3,
+      "colors": [
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-018",
+    "name": "Confident Botamo",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-018.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "permanent"
+        ],
+        "text": "[PERMANENT] This Card can attack Battle Cards that are in Active Mode."
+      }
+    ]
+  },
+  {
+    "power": 5000,
+    "character": "Botamo",
+    "special_trait": "Alien",
+    "era": "Champa Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-019",
+    "name": "Botamo of Universe 6",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-019.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "blocker"
+        ],
+        "text": "[BLOCKER] (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)"
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Magetta",
+    "special_trait": "Alien",
+    "era": "Champa Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 3,
+      "colors": [
+        "red",
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-020",
+    "name": "Iron Wall Magetta",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-020.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "permanent"
+        ],
+        "text": "[PERMANENT] This card cannot be KO-ed in battle."
+      }
+    ]
+  },
+  {
+    "power": 10000,
+    "character": "Magetta",
+    "special_trait": "Alien",
+    "era": "Champa Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-021",
+    "name": "Magetta of Universe 6",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-021.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "blocker"
+        ],
+        "text": "[BLOCKER] (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)"
+      }
+    ]
+  },
+  {
+    "power": 20000,
+    "character": "Universe 6 Supreme Kai",
+    "special_trait": "God",
+    "era": "Champa Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 4,
+      "colors": [
+        "red",
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-022",
+    "name": "Universe 6 Supreme Kai",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-022.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE] (This card inflicts 2 damage instead of 1 when attacking)"
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, choose up to 1 <Supreme Kai's Attendant> from your deck and play it. Then, shuffle your deck."
+      }
+    ]
+  },
+  {
+    "power": 10000,
+    "character": "Supreme Kai's Attendant",
+    "special_trait": "God",
+    "era": "Champa Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "red"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-023",
+    "name": "Kai Attendant of Universe 6",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-023.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "permanent"
+        ],
+        "text": "[PERMANENT] This card cannot attack Battle Card with 15000 or more power."
+      }
+    ]
+  },
+  {
+    "energy_cost": {
+      "total": 4,
+      "colors": [
+        "red",
+        "red"
+      ]
+    },
+    "type": "extra",
+    "number": "BT1-024",
+    "name": "Assassination Plot",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-024.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "activate-main"
+        ],
+        "text": "[ACTIVATE-MAIN] Choose any number of opponent Battle Cards of which the total power adds up to 30000 or less and KO those cards."
+      }
+    ]
+  },
+  {
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "red"
+      ]
+    },
+    "type": "extra",
+    "number": "BT1-025",
+    "name": "Vados's Assistance",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-025.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "counter-attack"
+        ],
+        "text": "[COUNTER-ATTACK] Negate the attack. Then, you may switch up to 1 of your Battle Cards to Active Mode."
+      }
+    ]
+  },
+  {
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "red"
+      ]
+    },
+    "type": "extra",
+    "number": "BT1-026",
+    "name": "Fickle Destruction",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-026.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "activate-main"
+        ],
+        "text": "[ACTIVATE-MAIN] Choose 1 of your opponent's Battle Cards with 12000 or less power in the Battle Area and KO that card."
+      }
+    ]
+  },
+  {
+    "energy_cost": {
+      "total": 0,
+      "colors": [
+        
+      ]
+    },
+    "type": "extra",
+    "number": "BT1-027",
+    "name": "Cabba's Awakening",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-027.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "red",
+    "skills": [
+      {
+        "keywords": [
+          "activate-battle"
+        ],
+        "text": "[ACTIVATE-BATTLE] Choose up to 1 of your red cards. It gains +6000 power for the duration of the battle."
+      }
+    ]
+  },
+  {
+    "front": true,
+    "power": 10000,
+    "character": "Vegeta",
+    "special_trait": "Saiyan",
+    "era": "Resurrection 'F' Saga",
+    "type": "leader",
+    "number": "BT1-028",
+    "name": "Vegeta",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-028.png",
+    "rarity": "R",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "activate-main",
+          "once-per-turn",
+          "critical"
+        ],
+        "text": "[ACTIVATE-MAIN][ONCE-PER-TURN] Choose 1 card from your life and add it to your hand This card gains [CRITICAL] for the duration of the turn."
+      },
+      {
+        "keywords": [
+          "awaken"
+        ],
+        "text": "[AWAKEN] When your life is at 4 or less You may draw 2 cards and flip this card over."
+      }
+    ]
+  },
+  {
+    "front": false,
+    "power": 15000,
+    "character": "Vegeta",
+    "special_trait": "Saiyan",
+    "era": "Resurrection 'F' Saga",
+    "type": "leader",
+    "number": "BT1-028",
+    "name": "Super Saiyan Blue Vegeta",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-028_b.png",
+    "rarity": "R",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "activate-main",
+          "once-per-turn",
+          "critical"
+        ],
+        "text": "[ACTIVATE-MAIN][ONCE-PER-TURN] Choose 1 card from your life and add it to your hand This card gains [CRITICAL] for the duration of the turn. If you have 7 or more blue energy, this card also gains +10000 power for the duration of the turn."
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks, draw 1 card."
+      }
+    ]
+  },
+  {
+    "front": true,
+    "power": 10000,
+    "character": "Beerus",
+    "special_trait": "God",
+    "era": "Battle of Gods Saga",
+    "type": "leader",
+    "number": "BT1-029",
+    "name": "Beerus",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-029.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks, if you have 3 or more energy, choose up to 1 of your opponent's Battle Cards with an energy cost of 2 or less and KO it."
+      },
+      {
+        "keywords": [
+          "awaken"
+        ],
+        "text": "[AWAKEN] When your life is at 4 or less You may draw 2 cards and flip this card over."
+      }
+    ]
+  },
+  {
+    "front": false,
+    "power": 15000,
+    "character": "Beerus",
+    "special_trait": "God",
+    "era": "Battle of Gods Saga",
+    "type": "leader",
+    "number": "BT1-029",
+    "name": "Beerus, God of Destruction",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-029_b.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks, draw 1 card. Then choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and KO it."
+      },
+      {
+        "keywords": [
+          "activate-main"
+        ],
+        "energy_cost": [
+          "16"
+        ],
+        "text": "[ACTIVATE-MAIN] , Switch this card to Rest Mode You win this game."
+      }
+    ]
+  },
+  {
+    "front": true,
+    "power": 10000,
+    "character": "Son Goku",
+    "special_trait": "Saiyan",
+    "era": "Resurrection 'F' Saga",
+    "type": "leader",
+    "number": "BT1-030",
+    "name": "Son Goku",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-030.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks, it gains +1000 for each 1 energy you have, for the duration of the turn."
+      },
+      {
+        "keywords": [
+          "awaken"
+        ],
+        "text": "[AWAKEN] When your life is at 4 or less You may draw 2 cards and flip this card over."
+      }
+    ]
+  },
+  {
+    "front": false,
+    "power": 15000,
+    "character": "Son Goku",
+    "special_trait": "Saiyan",
+    "era": "Resurrection 'F' Saga",
+    "type": "leader",
+    "number": "BT1-030",
+    "name": "Super Saiyan Blue Son Goku",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-030_b.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "permanent",
+          "dual-attack"
+        ],
+        "text": "[PERMANENT] When you have 7 or more energy, this card gains [DUAL-ATTACK] (Once per turn, when this card attacks, switch this card to Active Mode after the battle)."
+      },
+      {
+        "keywords": [
+          "auto",
+          "once-per-turn"
+        ],
+        "text": "[AUTO][ONCE-PER-TURN] When this card attacks, draw 1 card. Then, this card gains +1000 power for each 1 energy you have for the duration of the turn."
+      }
+    ]
+  },
+  {
+    "power": 30000,
+    "character": "Son Goku",
+    "special_trait": "Saiyan",
+    "era": "Resurrection 'F' Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 7,
+      "colors": [
+        "blue",
+        "blue",
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-031",
+    "name": "God Break Son Goku ",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-031.png",
+    "rarity": "SR",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "evolve"
+        ],
+        "energy_cost": [
+          "blue",
+          "blue",
+          "blue",
+          "3"
+        ],
+        "text": "[EVOLVE] <Son Goku>"
+      },
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE]"
+      },
+      {
+        "keywords": [
+          "permanent",
+          "counter",
+          "blocker"
+        ],
+        "text": "[PERMANENT] Your opponent cannot activate [COUNTER] against this card's attack and cannot activate [BLOCKER] during this card's attack."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Son Goku",
+    "special_trait": "Saiyan",
+    "era": "Champa Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 4,
+      "colors": [
+        "blue",
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-032",
+    "name": "Overflowing Spirit SSGSS Son Goku ",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-032.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "critical"
+        ],
+        "text": "[CRITICAL] (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand)"
+      },
+      {
+        "keywords": [
+          "permanent"
+        ],
+        "text": "[PERMANENT] During your turn, if you have 5 or more energy, this card gains +10000 power."
+      }
+    ]
+  },
+  {
+    "power": 5000,
+    "character": "Son Goku",
+    "special_trait": "Saiyan",
+    "era": "Battle of Gods Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-033",
+    "name": "Kind Saiyan Son Goku ",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-033.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, look at up to 7 cards from the top of your deck. Choose up to 1 blue <Son Goku> among them and add it to your hand. Then, shuffle your deck."
+      }
+    ]
+  },
+  {
+    "power": 25000,
+    "character": "Son Gohan: Adolescence",
+    "special_trait": "Saiyan\/Earthling",
+    "era": "Resurrection 'F' Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 4,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-034",
+    "name": "Mighty Striker Son Gohan",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-034.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE] (This card inflicts 2 damage instead of 1 when attacking)"
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Son Goten",
+    "special_trait": "Saiyan\/Earthling",
+    "era": "Battle of Gods Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-035",
+    "name": "Son Goten",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-035.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          
+        ],
+        "text": "-"
+      }
+    ]
+  },
+  {
+    "power": 25000,
+    "character": "Vegeta",
+    "special_trait": "Saiyan",
+    "era": "Resurrection 'F' Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 6,
+      "colors": [
+        "blue",
+        "blue",
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-036",
+    "name": "God Charge Vegeta",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-036.png",
+    "rarity": "R",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "evolve"
+        ],
+        "energy_cost": [
+          "blue",
+          "blue",
+          "blue",
+          "2"
+        ],
+        "text": "[EVOLVE] <Vegeta>"
+      },
+      {
+        "keywords": [
+          "dual-attack"
+        ],
+        "text": "[DUAL-ATTACK]"
+      },
+      {
+        "keywords": [
+          "critical"
+        ],
+        "text": "[CRITICAL]"
+      },
+      {
+        "keywords": [
+          "auto",
+          "blocker"
+        ],
+        "text": "[AUTO] When a card evolves into this card, choose up to 1 opponent Battle Card with [BLOCKER] and return it to their hand."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Vegeta",
+    "special_trait": "Saiyan",
+    "era": "Resurrection 'F' Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 3,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-037",
+    "name": "Assailant Vegeta",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-037.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "critical"
+        ],
+        "text": "[CRITICAL] (When this card inflicts damage to your opponent's life, they place that many cards in the Drop Area instead of their hand)"
+      }
+    ]
+  },
+  {
+    "power": 20000,
+    "character": "Vegeta",
+    "special_trait": "Saiyan",
+    "era": "Resurrection 'F' Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 3,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-038",
+    "name": "Vegeta",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-038.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          
+        ],
+        "text": "-"
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Trunks: Youth",
+    "special_trait": "Saiyan\/Earthling",
+    "era": "Battle of Gods Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-039",
+    "name": "Trunks",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-039.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          
+        ],
+        "text": "-"
+      }
+    ]
+  },
+  {
+    "power": 1000,
+    "character": "Bulma",
+    "special_trait": "Earthling",
+    "era": "Resurrection 'F' Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-040",
+    "name": "Bulma, God Tempter",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-040.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, choose up to 1 <Whis> with an energy cost of 4 or lower from your deck and add it to your hand. Then, shuffle your deck."
+      }
+    ]
+  },
+  {
+    "power": 25000,
+    "character": "Beerus",
+    "special_trait": "God",
+    "era": "Resurrection 'F' Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 7,
+      "colors": [
+        "blue",
+        "blue",
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-041",
+    "name": "Beerus, General of Demolition",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-041.png",
+    "rarity": "SR",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "triple-strike"
+        ],
+        "text": "[TRIPLE-STRIKE] (This card inflicts 3 damage instead of 1 when attacking)"
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks a Leader Card, your opponent may choose 2 cards from their hand and place them in the Drop Area. If they don't, choose all of your opponent's Battle Cards and energy. Place them in the Drop Area."
+      }
+    ]
+  },
+  {
+    "power": 20000,
+    "character": "Beerus",
+    "special_trait": "God",
+    "era": "Champa Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 4,
+      "colors": [
+        "blue",
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-042",
+    "name": "Energy Boost Beerus",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-042.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE] (This card inflicts 2 damage instead of 1 when attacking)"
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, if you have 5 or more energy, choose up to 1opponent Battle Card and KO that card."
+      }
+    ]
+  },
+  {
+    "power": 40000,
+    "character": "Whis",
+    "special_trait": "God",
+    "era": "Resurrection 'F' Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 12,
+      "colors": [
+        "blue",
+        "blue",
+        "blue",
+        "blue",
+        "blue",
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-043",
+    "name": "Whis, Judge of the Gods",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-043.png",
+    "rarity": "R",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "quadruple-strike"
+        ],
+        "text": "[QUADRUPLE-STRIKE] (This card inflicts 4 damage instead of 1 when attacking)"
+      },
+      {
+        "keywords": [
+          "permanent",
+          "auto"
+        ],
+        "text": "[PERMANENT] This card's attack and skill cannot be negated. [AUTO] When you play this card, if your Leader Card is <Beerus>, after your current turn ends, take another turn."
+      }
+    ]
+  },
+  {
+    "power": 10000,
+    "character": "Whis",
+    "special_trait": "God",
+    "era": "Resurrection 'F' Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 4,
+      "colors": [
+        "blue",
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-044",
+    "name": "Whis, The Resting Attendant",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-044.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, add 1 card to your energy from the top of your deck."
+      }
+    ]
+  },
+  {
+    "power": 12000,
+    "character": "Piccolo",
+    "special_trait": "Namekian\/God",
+    "era": "Champa Saga",
+    "combo_energy": 0,
+    "combo_power": 0,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-045",
+    "name": "Boost Attack Piccolo",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-045.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you Combo with this card, if your Leader Card is blue and your life is 4 or less, draw 1 card and add +10000 to this card's Combo for the duration of the turn."
+      }
+    ]
+  },
+  {
+    "power": 10000,
+    "character": "Piccolo",
+    "special_trait": "Namekian\/God",
+    "era": "Resurrection 'F' Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-046",
+    "name": "Taunting Piccolo",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-046.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "blocker"
+        ],
+        "text": "[BLOCKER] (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)"
+      }
+    ]
+  },
+  {
+    "power": 5000,
+    "character": "Majin Buu",
+    "special_trait": "Majin",
+    "era": "Champa Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-047",
+    "name": "Energy Boosted Majin Buu",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-047.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, draw 1 card."
+      }
+    ]
+  },
+  {
+    "power": 16000,
+    "character": "Jaco",
+    "special_trait": "Galactic Patrol",
+    "era": "Champa Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 3,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-048",
+    "name": "Ultimate Judgment Jaco",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-048.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you Combo with this card, choose 1 card in your opponent's Combo Area and return it to their hand."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Monaka",
+    "special_trait": "Alien",
+    "era": "Champa Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 3,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-049",
+    "name": "Mysterious Presence Monaka",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-049.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, if you do not have any Battle Cards other than this card in play, choose up to 1 of your opponent's Battle Cards. Place that card on top of the opponent's deck, and all cards that were under it in the Drop Area."
+      }
+    ]
+  },
+  {
+    "power": 5000,
+    "character": "North Kai",
+    "special_trait": "God",
+    "era": "Battle of Gods Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-050",
+    "name": "Guardian North Kai",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-050.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "blocker"
+        ],
+        "text": "[BLOCKER] (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)"
+      }
+    ]
+  },
+  {
+    "energy_cost": {
+      "total": 5,
+      "colors": [
+        "blue",
+        "blue"
+      ]
+    },
+    "type": "extra",
+    "number": "BT1-051",
+    "name": "Result of Training",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-051.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "activate-main",
+          "awaken"
+        ],
+        "text": "[ACTIVATE-MAIN] During this turn, you may activate your Leader Card's [AWAKEN] even if you have 5 or more life. Then, choose up to 4 of your energy and switch them to Active Mode."
+      }
+    ]
+  },
+  {
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "extra",
+    "number": "BT1-052",
+    "name": "Objection",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-052.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "activate-main"
+        ],
+        "text": "[ACTIVATE-MAIN] Choose up to 1card from your hand, and add it to your energy."
+      }
+    ]
+  },
+  {
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "extra",
+    "number": "BT1-053",
+    "name": "Senzu Bean",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-053.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "activate-battle"
+        ],
+        "text": "[ACTIVATE-BATTLE] Choose up to 1 of your cards. It gains +5000 power for the duration of the turn. Then, choose up to 2 of your energy and switch them to Active Mode."
+      }
+    ]
+  },
+  {
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "extra",
+    "number": "BT1-054",
+    "name": "Encouraging Presence Monaka",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-054.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "activate-main",
+          "double-strike"
+        ],
+        "text": "[ACTIVATE-MAIN] Your Leader Card gains [DOUBLE-STRIKE] (This card inflicts 2 damage instead of 1 when attacking) for the duration of the turn. Then, draw 1 card."
+      }
+    ]
+  },
+  {
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "extra",
+    "number": "BT1-055",
+    "name": "Whis's Coercion",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-055.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "counter-attack"
+        ],
+        "text": "[COUNTER-ATTACK] Negate the attack. Then, choose up to 1 of your energy and switch it to Active Mode."
+      }
+    ]
+  },
+  {
+    "front": true,
+    "power": 10000,
+    "character": "Son Goku",
+    "special_trait": "Saiyan",
+    "era": "Battle of Gods Saga",
+    "type": "leader",
+    "number": "BT1-056",
+    "name": "Son Goku",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-056.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE] (This card inflicts 2 damage instead of 1 when attacking)"
+      },
+      {
+        "keywords": [
+          "awaken"
+        ],
+        "text": "[AWAKEN] When your life is at 4 or less You may draw 2 cards and flip this card over."
+      }
+    ]
+  },
+  {
+    "front": false,
+    "power": 15000,
+    "character": "Son Goku",
+    "special_trait": "Saiyan",
+    "era": "Battle of Gods Saga",
+    "type": "leader",
+    "number": "BT1-056",
+    "name": "Super Saiyan God Son Goku",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-056_b.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE] (This card inflicts 2 damage instead of 1 when attacking)"
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks, draw 1 card."
+      }
+    ]
+  },
+  {
+    "front": true,
+    "power": 10000,
+    "character": "Broly",
+    "special_trait": "Saiyan",
+    "era": "Broly Saga",
+    "type": "leader",
+    "number": "BT1-057",
+    "name": "Broly",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-057.png",
+    "rarity": "R",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "permanent"
+        ],
+        "text": "[PERMANENT] This card cannot attack Battle Cards."
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks, both players choose 1 card from their hand and place it in the Drop Area."
+      },
+      {
+        "keywords": [
+          "awaken"
+        ],
+        "text": "[AWAKEN] When your life is at 4 or less You may draw 2 cards and flip this card over."
+      }
+    ]
+  },
+  {
+    "front": false,
+    "power": 15000,
+    "character": "Broly",
+    "special_trait": "Saiyan",
+    "era": "Broly Saga",
+    "type": "leader",
+    "number": "BT1-057",
+    "name": "Broly, The Legendary Super Saiyan",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-057_b.png",
+    "rarity": "R",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "permanent"
+        ],
+        "text": "[PERMANENT] This card cannot attack Battle Cards."
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks, draw 1 card. Then, both players choose 1 card from their hand and 1 card from their Battle Area, and place those cards in their Drop Areas."
+      }
+    ]
+  },
+  {
+    "front": true,
+    "power": 10000,
+    "character": "Son Gohan: Adolescence",
+    "special_trait": "Saiyan\/Earthling",
+    "era": "Battle of Gods Saga",
+    "type": "leader",
+    "number": "BT1-058",
+    "name": "Son Gohan",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-058.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks, if you have more life than your opponent, draw 1 card."
+      },
+      {
+        "keywords": [
+          "awaken"
+        ],
+        "text": "[AWAKEN] When your life is at 4 or less You may draw 2 cards and flip this card over."
+      }
+    ]
+  },
+  {
+    "front": false,
+    "power": 15000,
+    "character": "Son Gohan: Adolescence",
+    "special_trait": "Saiyan\/Earthling",
+    "era": "Battle of Gods Saga",
+    "type": "leader",
+    "number": "BT1-058",
+    "name": "Full Power Son Gohan",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-058_b.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks, draw 1 card."
+      },
+      {
+        "keywords": [
+          "activate-main",
+          "once-per-turn"
+        ],
+        "energy_cost": [
+          "6"
+        ],
+        "text": "[ACTIVATE-MAIN][ONCE-PER-TURN] Choose all of your opponent's Battle Cards in the Battle Area and KO them."
+      }
+    ]
+  },
+  {
+    "power": 25000,
+    "character": "Son Goku",
+    "special_trait": "Saiyan",
+    "era": "Frieza Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 6,
+      "colors": [
+        "green",
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-059",
+    "name": "Awakening Rage Son Goku",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-059.png",
+    "rarity": "SR",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "evolve"
+        ],
+        "energy_cost": [
+          "green",
+          "green",
+          "green",
+          "2"
+        ],
+        "text": "[EVOLVE] <Son Goku>"
+      },
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE]"
+      },
+      {
+        "keywords": [
+          "permanent",
+          "triple-strike"
+        ],
+        "text": "[PERMANENT] If <Krillin> is in your Drop Area, this card gains [TRIPLE-STRIKE] ."
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, choose any number of your opponent's Battle Cards of which the total cost adds up to 6 or less and KO them."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Son Goku",
+    "special_trait": "Saiyan",
+    "era": "Battle of Gods Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-060",
+    "name": " Son Goku",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-060.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          
+        ],
+        "text": "-"
+      }
+    ]
+  },
+  {
+    "power": 10000,
+    "character": "Son Gohan: Youth",
+    "special_trait": "Saiyan\/Earthling",
+    "era": "Frieza Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-061",
+    "name": "Friend-Summoning Son Gohan",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-061.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, look at up to 7 cards from the top of your deck. Choose up to 1 <Krillin> among them and add it to your hand."
+      }
+    ]
+  },
+  {
+    "power": 10000,
+    "character": "Son Gohan: Adolescence",
+    "special_trait": "Saiyan\/Earthling",
+    "era": "Broly Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-062",
+    "name": "Son Gohan, Family of Justice",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-062.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "blocker"
+        ],
+        "text": "[BLOCKER] (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)"
+      }
+    ]
+  },
+  {
+    "power": 10000,
+    "character": "Son Goten",
+    "special_trait": "Saiyan\/Earthling",
+    "era": "Broly Saga",
+    "combo_energy": 1,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "green",
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-063",
+    "name": "Son Goten, Family of Justice",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-063.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] During your turn, when you Combo with this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and KO it."
+      }
+    ]
+  },
+  {
+    "power": 20000,
+    "character": "Vegeta",
+    "special_trait": "Saiyan",
+    "era": "Battle of Gods Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 4,
+      "colors": [
+        "green",
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-064",
+    "name": "Raging Attacker Vegeta",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-064.png",
+    "rarity": "R",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE]"
+      },
+      {
+        "keywords": [
+          "counter-attack"
+        ],
+        "text": "[COUNTER-ATTACK] Play this card from your hand."
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and KO it."
+      }
+    ]
+  },
+  {
+    "power": 20000,
+    "character": "Vegeta",
+    "special_trait": "Saiyan",
+    "era": "Battle of Gods Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 4,
+      "colors": [
+        "green",
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-065",
+    "name": "Furious Yell Vegeta",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-065.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE] (This card inflicts 2 damage instead of 1 when attacking)"
+      },
+      {
+        "keywords": [
+          "activate-main",
+          "once-per-turn"
+        ],
+        "text": "[ACTIVATE-MAIN][ONCE-PER-TURN] Place 1 card from your life to the Drop Area Choose 1 of your opponent's Battle Cards and KO it."
+      }
+    ]
+  },
+  {
+    "power": 10000,
+    "character": "Vegeta",
+    "special_trait": "Saiyan",
+    "era": "Battle of Gods Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "green",
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-066",
+    "name": "Tenacious Vegeta",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-066.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "revenge"
+        ],
+        "text": "[REVENGE] (When this card is attacked, KO the attacking card after the battle)"
+      },
+      {
+        "keywords": [
+          "permanent"
+        ],
+        "text": "[PERMANENT] This card cannot be attacked by a Leader Card."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Trunks: Future",
+    "special_trait": "Saiyan\/Earthling",
+    "era": "Android Cell Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 4,
+      "colors": [
+        "green",
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-067",
+    "name": "Implacable Trunks",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-067.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "evolve"
+        ],
+        "energy_cost": [
+          "green",
+          "green",
+          "1"
+        ],
+        "text": "[EVOLVE] :<TrunksFuture> (Play this card on top of the specified card)"
+      },
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE] (This card inflicts 2 damage instead of 1 when attacking)"
+      },
+      {
+        "keywords": [
+          "revenge"
+        ],
+        "text": "[REVENGE] (When this card is attacked, KO the attacking card after the battle)"
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When a card evolves into this card, choose up to 1 card from your Drop Area and add it to your hand."
+      }
+    ]
+  },
+  {
+    "power": 10000,
+    "character": "Trunks: Future",
+    "special_trait": "Saiyan\/Earthling",
+    "era": "Android Cell Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-068",
+    "name": "Slasher Trunks",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-068.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "permanent"
+        ],
+        "text": "[PERMANENT] This card cannot attack Battle Cards."
+      }
+    ]
+  },
+  {
+    "power": 12000,
+    "character": "Trunks: Youth",
+    "special_trait": "Saiyan\/Earthling",
+    "era": "Battle of Gods Saga",
+    "combo_energy": 0,
+    "combo_power": 0,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-069",
+    "name": "Trunks, Protector of Children",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-069.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you Combo with this card, if your Leader Card is green and your life is 4 or less, draw 1 card and add +10000 to this card's Combo for the duration of the turn."
+      }
+    ]
+  },
+  {
+    "power": 25000,
+    "character": "Gotenks",
+    "special_trait": "Saiyan\/Earthling",
+    "era": "Battle of Gods Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 5,
+      "colors": [
+        "green",
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-070",
+    "name": "Super Saiyan Gotenks",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-070.png",
+    "rarity": "R",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "evolve"
+        ],
+        "energy_cost": [
+          "green",
+          "green",
+          "green",
+          "1"
+        ],
+        "text": "[EVOLVE] <Gotenks>"
+      },
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE]"
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, choose up to 2 of your energy and switch them to Active Mode. Then, draw 1 card."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Gotenks",
+    "special_trait": "Saiyan\/Earthling",
+    "era": "Battle of Gods Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 3,
+      "colors": [
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-071",
+    "name": "Energy Power Gotenks",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-071.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks a Leader Card, your opponent chooses 1 card from their hand and places it in the Drop Area."
+      }
+    ]
+  },
+  {
+    "power": 5000,
+    "character": "Krillin",
+    "special_trait": "Earthling",
+    "era": "Frieza Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-072",
+    "name": " Human Shield Krillin",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-072.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "blocker"
+        ],
+        "text": "[BLOCKER] (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)"
+      }
+    ]
+  },
+  {
+    "power": 30000,
+    "character": "Broly",
+    "special_trait": "Saiyan",
+    "era": "Broly Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 6,
+      "colors": [
+        "green",
+        "green",
+        "green",
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-073",
+    "name": "Broly, The Rampaging Horror",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-073.png",
+    "rarity": "SR",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "evolve"
+        ],
+        "energy_cost": [
+          "green",
+          "green",
+          "green",
+          "green",
+          "1"
+        ],
+        "text": "[EVOLVE] <Broly>"
+      },
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE]"
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, choose up to 2 cards from your opponent's hand at random and place them in the Drop Area."
+      }
+    ]
+  },
+  {
+    "power": 20000,
+    "character": "Broly",
+    "special_trait": "Saiyan\/Bio Warrior",
+    "era": "Broly Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 5,
+      "colors": [
+        "green",
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-074",
+    "name": "Rampaging Lifeform Bio-Broly",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-074.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "evolve"
+        ],
+        "energy_cost": [
+          "green",
+          "green",
+          "2"
+        ],
+        "text": "[EVOLVE] <Broly> (Play this card on top of the specified card)"
+      },
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE] (This card inflicts 2 damage instead of 1 when attacking)"
+      },
+      {
+        "keywords": [
+          
+        ],
+        "text": "[Auto} When a card evolves into this card, your opponent chooses two cards from their hand, and places them in the Drop Area."
+      }
+    ]
+  },
+  {
+    "power": 30000,
+    "character": "Broly",
+    "special_trait": "Saiyan",
+    "era": "Broly Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 6,
+      "colors": [
+        "green",
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-075",
+    "name": "Rampaging Super Saiyan Broly",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-075.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "triple-strike"
+        ],
+        "text": "[TRIPLE-STRIKE] (This card inflicts 3 damage instead of 1 when attacking)"
+      }
+    ]
+  },
+  {
+    "power": 5000,
+    "character": "Broly",
+    "special_trait": "Saiyan",
+    "era": "Broly Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-076",
+    "name": "Broly, Dawn of the Rampage",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-076.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, look at up to 7 cards from the top of your deck and add 1 green <Broly> among them to your hand. Then, shuffle your deck."
+      }
+    ]
+  },
+  {
+    "power": 10000,
+    "character": "Paragus",
+    "special_trait": "Saiyan",
+    "era": "Broly Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-077",
+    "name": "Paragus, Controller of Monsters",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-077.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, you may place 1 card from your hand in the Drop Area. If you do so, choose and activate 1 {Broly's Ring} from your deck. Then, shuffle your deck."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Bio Warrior",
+    "special_trait": "Bio Warrior",
+    "era": "Broly Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "green",
+        "green"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-078",
+    "name": "Overflowing Bio Warrior Army",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-078.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card is placed in the Drop Area from the Battle Area, if your Leader Card is <Broly>, you may place 1 card from your hand in the Drop Area. If you do, play this card."
+      }
+    ]
+  },
+  {
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "green"
+      ]
+    },
+    "type": "extra",
+    "number": "BT1-079",
+    "name": "King Vegeta's Surprise Attack",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-079.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "activate-battle",
+          "revenge"
+        ],
+        "text": "[ACTIVATE-BATTLE] Choose up to 1 of your Battle Cards. It gains +10000 power and [REVENGE] (When this card is attacked, KO the attacking card after the battle) for the duration of the turn."
+      }
+    ]
+  },
+  {
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "green"
+      ]
+    },
+    "type": "extra",
+    "number": "BT1-080",
+    "name": "Full Power Energy",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-080.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "counter-attack"
+        ],
+        "text": "[COUNTER-ATTACK] Negate the attack. Then, choose up to 1 opponent Battle Card with an energy cost of 1 or less and KO that card."
+      }
+    ]
+  },
+  {
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "green"
+      ]
+    },
+    "type": "extra",
+    "number": "BT1-081",
+    "name": "Broly's Ring",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-081.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "field",
+          "field",
+          "permanent"
+        ],
+        "text": "[FIELD] (Place and activate this card in the Battle Area. It remains in the Battle Area until you activate another [FIELD] . When you do, place this card in the Drop Area) [PERMANENT] Your hand is not affected by your Leader Card Broly's skill."
+      }
+    ]
+  },
+  {
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "green"
+      ]
+    },
+    "type": "extra",
+    "number": "BT1-082",
+    "name": "Family Kamehameha",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-082.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "green",
+    "skills": [
+      {
+        "keywords": [
+          "activate-main"
+        ],
+        "text": "[ACTIVATE-MAIN] Choose up to 1 opponent Battle Card with an energy cost of 2 or less and KO that card."
+      }
+    ]
+  },
+  {
+    "front": true,
+    "power": 10000,
+    "character": "Frieza",
+    "special_trait": "Frieza Clan\/Frieza's Army",
+    "era": "Resurrection 'F' Saga",
+    "type": "leader",
+    "number": "BT1-083",
+    "name": "Frieza",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-083.png",
+    "rarity": "R",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "activate-main",
+          "once-per-turn"
+        ],
+        "text": "[ACTIVATE-MAIN][ONCE-PER-TURN] Place 1 of your <<Frieza's Army>> Battle Cards in the Drop Area Choose up to 1 of your energy and switch it to Active Mode. Then, draw 1 card."
+      },
+      {
+        "keywords": [
+          "awaken"
+        ],
+        "text": "[AWAKEN] When your life is at 4 or less You may draw 2 cards and flip this card over."
+      }
+    ]
+  },
+  {
+    "front": false,
+    "power": 15000,
+    "character": "Frieza",
+    "special_trait": "Frieza Clan\/Frieza's Army",
+    "era": "Resurrection 'F' Saga",
+    "type": "leader",
+    "number": "BT1-083",
+    "name": "Ultimate Form Golden Frieza",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-083_b.png",
+    "rarity": "R",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "activate-main",
+          "once-per-turn"
+        ],
+        "text": "[ACTIVATE-MAIN][ONCE-PER-TURN] Place 1 of your <<Frieza's Army>> Battle Cards in the Drop Area Choose up to 2 of your energy and switch them to Active Mode. Then, draw 1 card."
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks, draw 1 card."
+      }
+    ]
+  },
+  {
+    "front": true,
+    "power": 10000,
+    "character": "Frieza",
+    "special_trait": "Frieza Clan\/Frieza's Army",
+    "era": "Frieza Saga",
+    "type": "leader",
+    "number": "BT1-084",
+    "name": "Frieza",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-084.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] At the end of your turn, choose up to 1 of your Battle Cards and switch it to Active Mode."
+      },
+      {
+        "keywords": [
+          "awaken"
+        ],
+        "text": "[AWAKEN] When your life is at 4 or less You may draw 2 cards and flip this card over."
+      }
+    ]
+  },
+  {
+    "front": false,
+    "power": 15000,
+    "character": "Frieza",
+    "special_trait": "Frieza Clan\/Frieza's Army",
+    "era": "Frieza Saga",
+    "type": "leader",
+    "number": "BT1-084",
+    "name": "Frieza, The Galactic Emperor",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-084_b.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] At the end of your turn, choose up to 2 of your Battle Cards and switch them to Active Mode."
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks, draw 1 card."
+      }
+    ]
+  },
+  {
+    "front": true,
+    "power": 10000,
+    "character": "Ginyu",
+    "special_trait": "Ginyu Force\/Frieza's Army",
+    "era": "Frieza Saga",
+    "type": "leader",
+    "number": "BT1-085",
+    "name": "Ginyu",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-085.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "activate-main",
+          "once-per-turn"
+        ],
+        "text": "[ACTIVATE-MAIN][ONCE-PER-TURN] Flip over 1 face-down card in your life If the flipped card is <<Ginyu Force>> but not <Ginyu>, play that card. If not, add it to your hand."
+      },
+      {
+        "keywords": [
+          "awaken"
+        ],
+        "text": "[AWAKEN] When your life is at 4 or less You may draw 2 cards and flip this card over."
+      }
+    ]
+  },
+  {
+    "front": false,
+    "power": 15000,
+    "character": "Ginyu",
+    "special_trait": "Ginyu Force\/Frieza's Army",
+    "era": "Frieza Saga",
+    "type": "leader",
+    "number": "BT1-085",
+    "name": "Ginyu, The Malicious Transformation",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-085_b.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "activate-main",
+          "once-per-turn",
+          "double-strike"
+        ],
+        "text": "[ACTIVATE-MAIN][ONCE-PER-TURN] Add 1 card from your life to your hand This card gains [DOUBLE-STRIKE] for the duration of the turn. If there are 2 or more of your <<Ginyu Force>> in play, this card gains an additional +5000 power for the duration of the turn."
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks, draw 1 card."
+      }
+    ]
+  },
+  {
+    "power": 30000,
+    "character": "Frieza",
+    "special_trait": "Frieza Clan\/Frieza's Army",
+    "era": "Resurrection 'F' Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 7,
+      "colors": [
+        "yellow",
+        "yellow",
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-086",
+    "name": "Golden Frieza, The Resurrected Terror",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-086.png",
+    "rarity": "SR",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "evolve"
+        ],
+        "energy_cost": [
+          "yellow",
+          "yellow",
+          "4"
+        ],
+        "text": "[EVOLVE] <Frieza>"
+      },
+      {
+        "keywords": [
+          "triple-strike"
+        ],
+        "text": "[TRIPLE-STRIKE] (This card inflicts 3 damage instead of 1 when attacking)"
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When a card evolves into this card, place all Rest Mode Battle Cards except for this card in the Drop Area. Then, choose all Active Mode Battle Cards except for this card and switch them to Rest Mode."
+      }
+    ]
+  },
+  {
+    "power": 25000,
+    "character": "Frieza",
+    "special_trait": "Frieza Clan\/Frieza's Army",
+    "era": "Frieza Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 6,
+      "colors": [
+        "yellow",
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-087",
+    "name": "Full-Power Frieza",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-087.png",
+    "rarity": "R",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "blocker"
+        ],
+        "text": "[BLOCKER]"
+      },
+      {
+        "keywords": [
+          "triple-strike"
+        ],
+        "text": "[TRIPLE-STRIKE] (This card inflicts 3 damage instead of 1 when attacking)"
+      },
+      {
+        "keywords": [
+          "auto",
+          "blocker"
+        ],
+        "text": "[AUTO] When you activate this card's [BLOCKER] , switch this card to Active Mode after the battle."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Frieza",
+    "special_trait": "Frieza Clan\/Frieza's Army",
+    "era": "Frieza Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 4,
+      "colors": [
+        "yellow",
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-088",
+    "name": "Frieza, Hellish Terror",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-088.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "evolve"
+        ],
+        "energy_cost": [
+          "yellow",
+          "yellow",
+          "1"
+        ],
+        "text": "[EVOLVE] <Frieza> (Play this card on top of the specified card)"
+      },
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE] (This card inflicts 2 damage instead of 1 when attacking)"
+      },
+      {
+        "keywords": [
+          "auto",
+          "blocker"
+        ],
+        "text": "[AUTO] When a card evolves into this card, choose all of your opponent's cards with [BLOCKER] and switch them to Rest Mode."
+      }
+    ]
+  },
+  {
+    "power": 5000,
+    "character": "Frieza",
+    "special_trait": "Frieza Clan\/Frieza's Army",
+    "era": "Frieza Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-089",
+    "name": "Avenging Frieza",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-089.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, look at up to 3 cards from the top of your deck. Choose up to 1 < > among them with an energy cost of 2 or less and add it to your hand. Then, shuffle your deck."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Frieza",
+    "special_trait": "Frieza Clan\/Frieza's Army",
+    "era": "Android Cell Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 4,
+      "colors": [
+        "yellow",
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-090",
+    "name": "Mecha-Frieza, The Returning Terror",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-090.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "dual-attack"
+        ],
+        "text": "[DUAL-ATTACK] (Once per turn, when this card attacks, switch this card to Active Mode after the battle)"
+      },
+      {
+        "keywords": [
+          "auto",
+          "double-strike"
+        ],
+        "text": "[AUTO] When you play this card, you may place 1 card from your hand in the Drop Area. If you do so, choose up to 2 opponent Rest Mode Battle Cards and KO those cards. Then, this card gains [DOUBLE-STRIKE] for the duration of the turn."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "King Cold",
+    "special_trait": "Frieza Clan",
+    "era": "Android Cell Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 4,
+      "colors": [
+        "yellow",
+        "yellow",
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-091",
+    "name": "King Cold, Father of the Emperor",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-091.png",
+    "rarity": "R",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE]"
+      },
+      {
+        "keywords": [
+          "revenge"
+        ],
+        "text": "[REVENGE] (When this card is attacked, KO the attacking card after the battle)"
+      },
+      {
+        "keywords": [
+          "counter-battle-card-attack"
+        ],
+        "text": "[COUNTER-BATTLE-CARD-ATTACK] Play this card from your hand and change the target of the attack to this card."
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, choose up to 1 opponent Battle Card and switch it to Rest Mode."
+      }
+    ]
+  },
+  {
+    "power": 1000,
+    "character": "Sorbet",
+    "special_trait": "Frieza's Army",
+    "era": "Resurrection 'F' Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-092",
+    "name": "Sorbet, The Loyal Commander",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-092.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "blocker"
+        ],
+        "text": "[BLOCKER] ] (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)"
+      },
+      {
+        "keywords": [
+          "activate-battle",
+          "once-per-turn"
+        ],
+        "text": "[ACTIVATE-BATTLE][ONCE-PER-TURN] Place 1 card from your hand in the Drop Area Look at up to 2 cards from the top of your deck. Choose up to 2 <<Frieza's Army>> among them and place them in your Combo Area. Place any other cards in the Drop Area."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Tagoma",
+    "special_trait": "Frieza's Army",
+    "era": "Resurrection 'F' Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 3,
+      "colors": [
+        "yellow",
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-093",
+    "name": "Tagoma, The Loyal Warrior",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-093.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "permanent"
+        ],
+        "text": "[PERMANENT] If this card is in Rest Mode, your opponent cannot attack your other Battle Cards."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Shisami",
+    "special_trait": "Frieza's Army",
+    "era": "Resurrection 'F' Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 4,
+      "colors": [
+        "yellow",
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-094",
+    "name": "Shisami, The Loyal Warrior",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-094.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE] (This card inflicts 2 damage instead of 1 when attacking)"
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, choose up to 2 opponent Battle Cards. They cannot be switched to Active Mode during your opponent's next Charge Phase."
+      }
+    ]
+  },
+  {
+    "power": 25000,
+    "character": "Ginyu",
+    "special_trait": "Ginyu Force\/Frieza's Army",
+    "era": "Frieza Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 6,
+      "colors": [
+        "yellow",
+        "yellow",
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-095",
+    "name": "Elite Force Captain Ginyu",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-095.png",
+    "rarity": "SR",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "auto",
+          "double-strike"
+        ],
+        "text": "[AUTO] When you play this card, choose all of your <<Ginyu Force>> Battle Cards. Those cards gain +10000 power and [DOUBLE-STRIKE] for the duration of the turn."
+      }
+    ]
+  },
+  {
+    "power": 10000,
+    "character": "Recoome",
+    "special_trait": "Ginyu Force\/Frieza's Army",
+    "era": "Frieza Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-096",
+    "name": "Ginyu Force Recoome",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-096.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "permanent"
+        ],
+        "text": "[PERMANENT] This card gains +6000 power during your opponent's turn."
+      }
+    ]
+  },
+  {
+    "power": 10000,
+    "character": "Burter",
+    "special_trait": "Ginyu Force\/Frieza's Army",
+    "era": "Frieza Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-097",
+    "name": "Ginyu Force Burter",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-097.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] At the end of your turn, switch this card to Active Mode."
+      }
+    ]
+  },
+  {
+    "power": 10000,
+    "character": "Jeice",
+    "special_trait": "Ginyu Force\/Frieza's Army",
+    "era": "Frieza Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 3,
+      "colors": [
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-098",
+    "name": "Ginyu Force Jeice",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-098.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "blocker"
+        ],
+        "text": "[BLOCKER] (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)"
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card from your hand, look at up to 3 cards from the top of your deck. Choose up to 1 < > other than <Ginyu> among them and play it. Then, shuffle your deck."
+      }
+    ]
+  },
+  {
+    "power": 2000,
+    "character": "Guldo",
+    "special_trait": "Ginyu Force\/Frieza's Army",
+    "era": "Frieza Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-099",
+    "name": "Ginyu Force Guldo",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-099.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "blocker"
+        ],
+        "text": "[BLOCKER] (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)"
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, if your Leader Card is < >, choose up to 1 of your opponent's Battle Cards with an energy cost of 2 or less and switch it to Rest Mode."
+      }
+    ]
+  },
+  {
+    "power": 12000,
+    "character": "Dodoria",
+    "special_trait": "Frieza's Army",
+    "era": "Frieza Saga",
+    "combo_energy": 0,
+    "combo_power": 0,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-100",
+    "name": "Dodoria, The Emperor's Attendant",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-100.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you Combo with this card, if your Leader Card is yellow and your life is 4 or less, draw 1 card and add +10000 to this card's Combo for the duration of the turn."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Zarbon",
+    "special_trait": "Frieza's Army",
+    "era": "Frieza Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 3,
+      "colors": [
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-101",
+    "name": "Zarbon, The Emperor's Attendant",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-101.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] During your opponent's turn, when you Combo with this card, choose up to 1 of your Battle Cards and switch it to Active Mode."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Appule",
+    "special_trait": "Frieza's Army",
+    "era": "Frieza Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-102",
+    "name": "Appule",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-102.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          
+        ],
+        "text": "-"
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Sui",
+    "special_trait": "Frieza's Army",
+    "era": "Frieza Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-103",
+    "name": "Sui",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-103.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          
+        ],
+        "text": "-"
+      }
+    ]
+  },
+  {
+    "power": 20000,
+    "character": "Banan",
+    "special_trait": "Frieza's Army",
+    "era": "Frieza Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 3,
+      "colors": [
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-104",
+    "name": "Banan",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-104.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          
+        ],
+        "text": "-"
+      }
+    ]
+  },
+  {
+    "power": 12000,
+    "character": "Cui",
+    "special_trait": "Frieza's Army",
+    "era": "Frieza Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 2,
+      "colors": [
+        "yellow",
+        "yellow"
+      ]
+    },
+    "type": "battle",
+    "number": "BT1-105",
+    "name": "Cui",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-105.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "blocker"
+        ],
+        "text": "[BLOCKER] (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)"
+      }
+    ]
+  },
+  {
+    "energy_cost": {
+      "total": 4,
+      "colors": [
+        "yellow",
+        "yellow"
+      ]
+    },
+    "type": "extra",
+    "number": "BT1-106",
+    "name": "Recoome Eraser Gun",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-106.png",
+    "rarity": "UC",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "counter-attack"
+        ],
+        "text": "[COUNTER-ATTACK] If your Leader Card is yellow, negate the attack.Afterwards, the opponent's Battle Cards are unable to attack for the duration of the turn."
+      }
+    ]
+  },
+  {
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "yellow"
+      ]
+    },
+    "type": "extra",
+    "number": "BT1-107",
+    "name": "Cold Bloodlust",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-107.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "counter-play"
+        ],
+        "text": "[COUNTER-PLAY] If your Leader Card is <<Frieza's Army>>, the Battle Card played has its skill negated for the duration of the turn."
+      }
+    ]
+  },
+  {
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "yellow"
+      ]
+    },
+    "type": "extra",
+    "number": "BT1-108",
+    "name": "Bad Ring Laser",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-108.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "counter-counter",
+          "counter"
+        ],
+        "text": "[COUNTER-COUNTER] Place 1 yellow card from your hand in the Drop Area Negate the [COUNTER] ."
+      }
+    ]
+  },
+  {
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "yellow"
+      ]
+    },
+    "type": "extra",
+    "number": "BT1-109",
+    "name": "Frieza's Call",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-109.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "activate-main"
+        ],
+        "text": "[ACTIVATE-MAIN] Choose 1 <<Frieza's Army>> card of energy cost 2 or less from your deck, and play it in Rest Mode. Then, shuffle your deck."
+      }
+    ]
+  },
+  {
+    "energy_cost": {
+      "total": 1,
+      "colors": [
+        "yellow"
+      ]
+    },
+    "type": "extra",
+    "number": "BT1-110",
+    "name": "Crusher Ball",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/BT1-110.png",
+    "rarity": "C",
+    "series": "Series 1 Booster: ~GALACTIC BATTLE~",
+    "color": "yellow",
+    "skills": [
+      {
+        "keywords": [
+          "counter-play"
+        ],
+        "text": "[COUNTER-PLAY] The Battle Card played is played in Rest Mode."
+      }
+    ]
+  },
+  {
+    "front": true,
+    "power": 10000,
+    "character": "Son Goku",
+    "special_trait": "Saiyan",
+    "era": "Resurrection 'F' Saga",
+    "type": "leader",
+    "number": "SD1-01",
+    "name": "Super Saiyan God Son Goku",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/SD1-01.png",
+    "rarity": "ST",
+    "series": "Series 1 Starter: ~THE AWAKENING~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks, choose up to 1 of your blue energy and switch it to Active Mode."
+      },
+      {
+        "keywords": [
+          "awaken"
+        ],
+        "text": "[AWAKEN] When your life is at 4 or less You may draw 2 cards and flip this card over."
+      }
+    ]
+  },
+  {
+    "front": false,
+    "power": 15000,
+    "character": "Son Goku",
+    "special_trait": "Saiyan",
+    "era": "Resurrection 'F' Saga",
+    "type": "leader",
+    "number": "SD1-01",
+    "name": "SSGSS Son Goku, The Soul Striker",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/SD1-01_b.png",
+    "rarity": "ST",
+    "series": "Series 1 Starter: ~THE AWAKENING~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "permanent"
+        ],
+        "text": "[PERMANENT] During your turn, if you have 5 or more energy, this card gains +5000 power."
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When this card attacks, draw 1 card. Choose up to 2 of your blue energy and switch it to Active Mode."
+      }
+    ]
+  },
+  {
+    "power": 25000,
+    "character": "Son Goku",
+    "special_trait": "Saiyan",
+    "era": "Battle of Gods Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 6,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "SD1-02",
+    "name": "God Rush Son Goku",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/SD1-02.png",
+    "rarity": "ST",
+    "series": "Series 1 Starter: ~THE AWAKENING~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "evolve"
+        ],
+        "energy_cost": [
+          "blue",
+          "blue",
+          "blue",
+          "2"
+        ],
+        "text": "[EVOLVE] <Son Goku> (Play this card on top of the specified card)"
+      },
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE]"
+      },
+      {
+        "keywords": [
+          "auto",
+          "blocker"
+        ],
+        "text": "[AUTO] When you play this card, choose all of your opponent's Battle Cards with [BLOCKER] and return them to their hand."
+      }
+    ]
+  },
+  {
+    "power": 20000,
+    "character": "Son Goku",
+    "special_trait": "Saiyan",
+    "era": "Battle of Gods Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 5,
+      "colors": [
+        "blue",
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "SD1-03",
+    "name": "SS3 Son Goku, Maximum Energy",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/SD1-03.png",
+    "rarity": "ST",
+    "series": "Series 1 Starter: ~THE AWAKENING~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "evolve"
+        ],
+        "energy_cost": [
+          "blue",
+          "blue",
+          "2"
+        ],
+        "text": "[EVOLVE] <Son Goku> (Play this card on top of the specified card)"
+      },
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE]"
+      },
+      {
+        "keywords": [
+          "auto",
+          "dual-attack"
+        ],
+        "text": "[AUTO] When a card evolves into this card, this card gains [DUAL-ATTACK] (Once per turn, when this card attacks, switch this card to Active Mode after the battle) for the duration of the turn."
+      }
+    ]
+  },
+  {
+    "power": 15000,
+    "character": "Son Goku",
+    "special_trait": "Saiyan",
+    "era": "Battle of Gods Saga",
+    "combo_energy": 0,
+    "combo_power": 5000,
+    "energy_cost": {
+      "total": 3,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "SD1-04",
+    "name": "Rapid Spirit Ball Son Goku",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/SD1-04.png",
+    "rarity": "ST",
+    "series": "Series 1 Starter: ~THE AWAKENING~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "evolve"
+        ],
+        "energy_cost": [
+          "blue",
+          "1"
+        ],
+        "text": "[EVOLVE] <Son Goku> (Play this card on top of the specified card)"
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, choose up to 1 of your energy and switch it to Active Mode."
+      }
+    ]
+  },
+  {
+    "power": 20000,
+    "character": "Vegeta",
+    "special_trait": "Saiyan",
+    "era": "Battle of Gods Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 5,
+      "colors": [
+        "blue",
+        "blue",
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "SD1-05",
+    "name": "Vegeta, Prince of Speed",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/SD1-05.png",
+    "rarity": "ST",
+    "series": "Series 1 Starter: ~THE AWAKENING~",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "evolve"
+        ],
+        "energy_cost": [
+          "blue",
+          "blue",
+          "2"
+        ],
+        "text": "[EVOLVE] <Vegeta> (Play this card on top of the specified card)"
+      },
+      {
+        "keywords": [
+          "double-strike"
+        ],
+        "text": "[DOUBLE-STRIKE]"
+      },
+      {
+        "keywords": [
+          "auto"
+        ],
+        "text": "[AUTO] When you play this card, if you have 5 or more energy, draw 2 cards."
+      }
+    ]
+  },
+  {
+    "power": 25000,
+    "character": "Vegeta",
+    "special_trait": "Saiyan",
+    "era": "Champa Saga",
+    "combo_energy": 1,
+    "combo_power": 10000,
+    "energy_cost": {
+      "total": 6,
+      "colors": [
+        "blue"
+      ]
+    },
+    "type": "battle",
+    "number": "P-001",
+    "name": "One-Hit Destruction Vegeta",
+    "image_url": "http:\/\/www.dbs-cardgame.com\/images\/cardlist\/cardimg\/P-001.png",
+    "rarity": "PR",
+    "series": "Promotion Cards",
+    "color": "blue",
+    "skills": [
+      {
+        "keywords": [
+          "triple-strike"
+        ],
+        "text": "[TRIPLE-STRIKE] (This card inflicts 3 damage instead of 1 when attacking)"
+      },
+      {
+        "keywords": [
+          "permanent",
+          "evolve"
+        ],
+        "text": "[PERMANENT] If you have 7 or more energy, this card in your hand gains [EVOLVE] <Vegeta> (Without paying its energy cost, play this card on top of the specified card)."
+      }
+    ]
+  }
+]
