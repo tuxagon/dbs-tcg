@@ -2,7 +2,7 @@ defmodule Dbs.UserSocket do
   use Phoenix.Socket
 
   ## Channels
-  # channel "room:*", Dbs.RoomChannel
+  channel "room:*", Dbs.RoomChannel
 
   ## Transports
   transport :websocket, Phoenix.Transports.WebSocket

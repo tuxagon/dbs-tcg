@@ -54,9 +54,27 @@ let socket = new Socket("/socket", {params: {token: window.userToken}})
 socket.connect()
 
 // Now that you are connected, you can join channels with a topic:
-let channel = socket.channel("topic:subtopic", {})
+let channel = socket.channel("room:lobby", {})
+let roomsContainer = document.getElementById("rooms")
+
 channel.join()
-  .receive("ok", resp => { console.log("Joined successfully", resp) })
-  .receive("error", resp => { console.log("Unable to join", resp) })
+  .receive("ok", resp => {
+    resp.rooms.forEach((r) => {
+      let template = document.createElement("div")
+      template.style.border = "1px solid #333"
+      template.style.padding = "20px"
+      template.innerHTML = `
+      <a href="#" data-id="${r.id}">
+        <p><b>${r.name}</b></p>
+        <p>${r.players[0]} &amp; ${r.players[1]}</p>
+      </a>
+      <button>Join</button>
+      `
+      roomsContainer.appendChild(template);
+    }, this);
+  })
+  .receive("error", resp => { 
+    console.log("Unable to join", resp) 
+  })
 
 export default socket
