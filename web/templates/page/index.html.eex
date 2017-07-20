@@ -1,4 +1,8 @@
-<div>
-  <button>Create Room</button>
-</div>
-<div id="rooms"></div>
+<div id="elm-container"></div>
+<script src="<%= static_path(@conn, "/js/lobby.js") %>"></script>
+<script type="text/javascript">
+  (function() {
+    const elmDiv = document.getElementById("elm-container")
+    Elm.Lobby.embed(elmDiv)
+  })()
+</script>

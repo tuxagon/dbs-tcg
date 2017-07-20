@@ -28,6 +28,12 @@ node_modules/
 /config/prod.secret.exs
 /rel
 
+### Elm ###
+# elm-package generated files
+elm-stuff
+# elm-repl generated files
+repl-temp-*
+
 ### Vim ###
 # swap
 [._]*.s[a-v][a-z]
