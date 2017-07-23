@@ -7,7 +7,7 @@ defmodule Dbs.Repo.Migrations.CreateRoom do
       add :player1_id, references(:users, on_delete: :nothing)
       add :player2_id, references(:users, on_delete: :nothing)
 
-      timestamps()
+      timestamps(type: :utc_datetime)
     end
     create index(:rooms, [:player1_id])
     create index(:rooms, [:player2_id])

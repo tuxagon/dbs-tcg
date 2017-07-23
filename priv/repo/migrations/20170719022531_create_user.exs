@@ -5,7 +5,7 @@ defmodule Dbs.Repo.Migrations.CreateUser do
     create table(:users) do
       add :name, :string
 
-      timestamps()
+      timestamps(type: :utc_datetime)
     end
 
   end

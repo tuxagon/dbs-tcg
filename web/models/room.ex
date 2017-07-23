@@ -6,7 +6,7 @@ defmodule Dbs.Room do
     belongs_to :player1, Dbs.User
     belongs_to :player2, Dbs.User
 
-    timestamps()
+    timestamps(type: :utc_datetime)
   end
 
   @doc """

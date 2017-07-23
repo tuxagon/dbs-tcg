@@ -5,7 +5,7 @@ defmodule Dbs.User do
     field :name, :string
     has_many :rooms, Dbs.Room
 
-    timestamps()
+    timestamps(type: :utc_datetime)
   end
 
   @doc """
